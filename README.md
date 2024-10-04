@@ -11,6 +11,8 @@ https://opensource.org/licenses/MIT
 MongoDB is required to build connections to store the user thought post information for this application. Here we used Express to establish communication between the filesystem.
 ## Usage
 In practice this application will user information such as username, email, posts called thouhts in this application, reactions to posts, and friends. 
+## Tests
+https://youtu.be/5plWC_Ay55g
 ## Credits
 Jeremy Henry
 Miranda Lipscomb
